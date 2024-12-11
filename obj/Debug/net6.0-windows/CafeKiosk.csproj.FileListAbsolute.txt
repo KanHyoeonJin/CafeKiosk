@@ -1,0 +1,96 @@
+C:\KHJ\CsWF\WinFormCsharp\CafeKiosk\bin\Debug\net6.0-windows\CafeKiosk.exe
+C:\KHJ\CsWF\WinFormCsharp\CafeKiosk\bin\Debug\net6.0-windows\CafeKiosk.deps.json
+C:\KHJ\CsWF\WinFormCsharp\CafeKiosk\bin\Debug\net6.0-windows\CafeKiosk.runtimeconfig.json
+C:\KHJ\CsWF\WinFormCsharp\CafeKiosk\bin\Debug\net6.0-windows\CafeKiosk.dll
+C:\KHJ\CsWF\WinFormCsharp\CafeKiosk\bin\Debug\net6.0-windows\CafeKiosk.pdb
+C:\KHJ\CsWF\WinFormCsharp\CafeKiosk\obj\Debug\net6.0-windows\CafeKiosk.Form1.resources
+C:\KHJ\CsWF\WinFormCsharp\CafeKiosk\obj\Debug\net6.0-windows\CafeKiosk.Form2.resources
+C:\KHJ\CsWF\WinFormCsharp\CafeKiosk\obj\Debug\net6.0-windows\CafeKiosk.Properties.Resources.resources
+C:\KHJ\CsWF\WinFormCsharp\CafeKiosk\obj\Debug\net6.0-windows\CafeKiosk.csproj.GenerateResource.cache
+C:\KHJ\CsWF\WinFormCsharp\CafeKiosk\obj\Debug\net6.0-windows\CafeKiosk.GeneratedMSBuildEditorConfig.editorconfig
+C:\KHJ\CsWF\WinFormCsharp\CafeKiosk\obj\Debug\net6.0-windows\CafeKiosk.AssemblyInfoInputs.cache
+C:\KHJ\CsWF\WinFormCsharp\CafeKiosk\obj\Debug\net6.0-windows\CafeKiosk.AssemblyInfo.cs
+C:\KHJ\CsWF\WinFormCsharp\CafeKiosk\obj\Debug\net6.0-windows\CafeKiosk.csproj.CoreCompileInputs.cache
+C:\KHJ\CsWF\WinFormCsharp\CafeKiosk\obj\Debug\net6.0-windows\CafeKiosk.dll
+C:\KHJ\CsWF\WinFormCsharp\CafeKiosk\obj\Debug\net6.0-windows\refint\CafeKiosk.dll
+C:\KHJ\CsWF\WinFormCsharp\CafeKiosk\obj\Debug\net6.0-windows\CafeKiosk.pdb
+C:\KHJ\CsWF\WinFormCsharp\CafeKiosk\obj\Debug\net6.0-windows\CafeKiosk.genruntimeconfig.cache
+C:\KHJ\CsWF\WinFormCsharp\CafeKiosk\obj\Debug\net6.0-windows\ref\CafeKiosk.dll
+C:\KHJ\CsWF\WinFormCsharp\CafeKiosk\obj\Debug\net6.0-windows\CafeKiosk.Form3.resources
+C:\KHJ\CsWF\WinFormCsharp\CafeKiosk\obj\Debug\net6.0-windows\CafeKiosk.Form4.resources
+C:\KHJ\CsWF\WinFormCsharp\CafeKiosk\obj\Debug\net6.0-windows\CafeKiosk.Form5.resources
+C:\KHJ\CsWF\WinFormCsharp\CafeKiosk\obj\Debug\net6.0-windows\CafeKiosk.Form6.resources
+C:\KHJ\CsWF\WinFormCsharp\CafeKiosk\obj\Debug\net6.0-windows\CafeKiosk.Form7.resources
+C:\KHJ\CsWF\WinFormCsharp\CafeKiosk\obj\Debug\net6.0-windows\CafeKiosk.Form8.resources
+C:\KHJ\CsWF\WinFormCsharp\Kiosk_간현진\bin\Debug\net6.0-windows\CafeKiosk.exe
+C:\KHJ\CsWF\WinFormCsharp\Kiosk_간현진\bin\Debug\net6.0-windows\CafeKiosk.deps.json
+C:\KHJ\CsWF\WinFormCsharp\Kiosk_간현진\bin\Debug\net6.0-windows\CafeKiosk.runtimeconfig.json
+C:\KHJ\CsWF\WinFormCsharp\Kiosk_간현진\bin\Debug\net6.0-windows\CafeKiosk.dll
+C:\KHJ\CsWF\WinFormCsharp\Kiosk_간현진\bin\Debug\net6.0-windows\CafeKiosk.pdb
+C:\KHJ\CsWF\WinFormCsharp\Kiosk_간현진\obj\Debug\net6.0-windows\CafeKiosk.Form1.resources
+C:\KHJ\CsWF\WinFormCsharp\Kiosk_간현진\obj\Debug\net6.0-windows\CafeKiosk.Form2.resources
+C:\KHJ\CsWF\WinFormCsharp\Kiosk_간현진\obj\Debug\net6.0-windows\CafeKiosk.Form3.resources
+C:\KHJ\CsWF\WinFormCsharp\Kiosk_간현진\obj\Debug\net6.0-windows\CafeKiosk.Form4.resources
+C:\KHJ\CsWF\WinFormCsharp\Kiosk_간현진\obj\Debug\net6.0-windows\CafeKiosk.Form5.resources
+C:\KHJ\CsWF\WinFormCsharp\Kiosk_간현진\obj\Debug\net6.0-windows\CafeKiosk.Form6.resources
+C:\KHJ\CsWF\WinFormCsharp\Kiosk_간현진\obj\Debug\net6.0-windows\CafeKiosk.Form7.resources
+C:\KHJ\CsWF\WinFormCsharp\Kiosk_간현진\obj\Debug\net6.0-windows\CafeKiosk.Form8.resources
+C:\KHJ\CsWF\WinFormCsharp\Kiosk_간현진\obj\Debug\net6.0-windows\CafeKiosk.Properties.Resources.resources
+C:\KHJ\CsWF\WinFormCsharp\Kiosk_간현진\obj\Debug\net6.0-windows\CafeKiosk.csproj.GenerateResource.cache
+C:\KHJ\CsWF\WinFormCsharp\Kiosk_간현진\obj\Debug\net6.0-windows\CafeKiosk.GeneratedMSBuildEditorConfig.editorconfig
+C:\KHJ\CsWF\WinFormCsharp\Kiosk_간현진\obj\Debug\net6.0-windows\CafeKiosk.AssemblyInfoInputs.cache
+C:\KHJ\CsWF\WinFormCsharp\Kiosk_간현진\obj\Debug\net6.0-windows\CafeKiosk.AssemblyInfo.cs
+C:\KHJ\CsWF\WinFormCsharp\Kiosk_간현진\obj\Debug\net6.0-windows\CafeKiosk.csproj.CoreCompileInputs.cache
+C:\KHJ\CsWF\WinFormCsharp\Kiosk_간현진\obj\Debug\net6.0-windows\CafeKiosk.dll
+C:\KHJ\CsWF\WinFormCsharp\Kiosk_간현진\obj\Debug\net6.0-windows\refint\CafeKiosk.dll
+C:\KHJ\CsWF\WinFormCsharp\Kiosk_간현진\obj\Debug\net6.0-windows\CafeKiosk.pdb
+C:\KHJ\CsWF\WinFormCsharp\Kiosk_간현진\obj\Debug\net6.0-windows\CafeKiosk.genruntimeconfig.cache
+C:\KHJ\CsWF\WinFormCsharp\Kiosk_간현진\obj\Debug\net6.0-windows\ref\CafeKiosk.dll
+C:\KHJ\CsWF\WinFormCsharp\28_Kiosk_간현진\bin\Debug\net6.0-windows\CafeKiosk.exe
+C:\KHJ\CsWF\WinFormCsharp\28_Kiosk_간현진\bin\Debug\net6.0-windows\CafeKiosk.deps.json
+C:\KHJ\CsWF\WinFormCsharp\28_Kiosk_간현진\bin\Debug\net6.0-windows\CafeKiosk.runtimeconfig.json
+C:\KHJ\CsWF\WinFormCsharp\28_Kiosk_간현진\bin\Debug\net6.0-windows\CafeKiosk.dll
+C:\KHJ\CsWF\WinFormCsharp\28_Kiosk_간현진\bin\Debug\net6.0-windows\CafeKiosk.pdb
+C:\KHJ\CsWF\WinFormCsharp\28_Kiosk_간현진\obj\Debug\net6.0-windows\CafeKiosk.Form1.resources
+C:\KHJ\CsWF\WinFormCsharp\28_Kiosk_간현진\obj\Debug\net6.0-windows\CafeKiosk.Form2.resources
+C:\KHJ\CsWF\WinFormCsharp\28_Kiosk_간현진\obj\Debug\net6.0-windows\CafeKiosk.Form3.resources
+C:\KHJ\CsWF\WinFormCsharp\28_Kiosk_간현진\obj\Debug\net6.0-windows\CafeKiosk.Form4.resources
+C:\KHJ\CsWF\WinFormCsharp\28_Kiosk_간현진\obj\Debug\net6.0-windows\CafeKiosk.Form5.resources
+C:\KHJ\CsWF\WinFormCsharp\28_Kiosk_간현진\obj\Debug\net6.0-windows\CafeKiosk.Form6.resources
+C:\KHJ\CsWF\WinFormCsharp\28_Kiosk_간현진\obj\Debug\net6.0-windows\CafeKiosk.Form7.resources
+C:\KHJ\CsWF\WinFormCsharp\28_Kiosk_간현진\obj\Debug\net6.0-windows\CafeKiosk.Form8.resources
+C:\KHJ\CsWF\WinFormCsharp\28_Kiosk_간현진\obj\Debug\net6.0-windows\CafeKiosk.Properties.Resources.resources
+C:\KHJ\CsWF\WinFormCsharp\28_Kiosk_간현진\obj\Debug\net6.0-windows\CafeKiosk.csproj.GenerateResource.cache
+C:\KHJ\CsWF\WinFormCsharp\28_Kiosk_간현진\obj\Debug\net6.0-windows\CafeKiosk.GeneratedMSBuildEditorConfig.editorconfig
+C:\KHJ\CsWF\WinFormCsharp\28_Kiosk_간현진\obj\Debug\net6.0-windows\CafeKiosk.AssemblyInfoInputs.cache
+C:\KHJ\CsWF\WinFormCsharp\28_Kiosk_간현진\obj\Debug\net6.0-windows\CafeKiosk.AssemblyInfo.cs
+C:\KHJ\CsWF\WinFormCsharp\28_Kiosk_간현진\obj\Debug\net6.0-windows\CafeKiosk.csproj.CoreCompileInputs.cache
+C:\KHJ\CsWF\WinFormCsharp\28_Kiosk_간현진\obj\Debug\net6.0-windows\CafeKiosk.dll
+C:\KHJ\CsWF\WinFormCsharp\28_Kiosk_간현진\obj\Debug\net6.0-windows\refint\CafeKiosk.dll
+C:\KHJ\CsWF\WinFormCsharp\28_Kiosk_간현진\obj\Debug\net6.0-windows\CafeKiosk.pdb
+C:\KHJ\CsWF\WinFormCsharp\28_Kiosk_간현진\obj\Debug\net6.0-windows\CafeKiosk.genruntimeconfig.cache
+C:\KHJ\CsWF\WinFormCsharp\28_Kiosk_간현진\obj\Debug\net6.0-windows\ref\CafeKiosk.dll
+C:\Users\LEE\Documents\간현진 폴더\c# 윈폼 카페 프로젝트\bin\Debug\net6.0-windows\CafeKiosk.exe
+C:\Users\LEE\Documents\간현진 폴더\c# 윈폼 카페 프로젝트\bin\Debug\net6.0-windows\CafeKiosk.deps.json
+C:\Users\LEE\Documents\간현진 폴더\c# 윈폼 카페 프로젝트\bin\Debug\net6.0-windows\CafeKiosk.runtimeconfig.json
+C:\Users\LEE\Documents\간현진 폴더\c# 윈폼 카페 프로젝트\bin\Debug\net6.0-windows\CafeKiosk.dll
+C:\Users\LEE\Documents\간현진 폴더\c# 윈폼 카페 프로젝트\bin\Debug\net6.0-windows\CafeKiosk.pdb
+C:\Users\LEE\Documents\간현진 폴더\c# 윈폼 카페 프로젝트\obj\Debug\net6.0-windows\CafeKiosk.Form1.resources
+C:\Users\LEE\Documents\간현진 폴더\c# 윈폼 카페 프로젝트\obj\Debug\net6.0-windows\CafeKiosk.Form2.resources
+C:\Users\LEE\Documents\간현진 폴더\c# 윈폼 카페 프로젝트\obj\Debug\net6.0-windows\CafeKiosk.Form3.resources
+C:\Users\LEE\Documents\간현진 폴더\c# 윈폼 카페 프로젝트\obj\Debug\net6.0-windows\CafeKiosk.Form4.resources
+C:\Users\LEE\Documents\간현진 폴더\c# 윈폼 카페 프로젝트\obj\Debug\net6.0-windows\CafeKiosk.Form5.resources
+C:\Users\LEE\Documents\간현진 폴더\c# 윈폼 카페 프로젝트\obj\Debug\net6.0-windows\CafeKiosk.Form6.resources
+C:\Users\LEE\Documents\간현진 폴더\c# 윈폼 카페 프로젝트\obj\Debug\net6.0-windows\CafeKiosk.Form7.resources
+C:\Users\LEE\Documents\간현진 폴더\c# 윈폼 카페 프로젝트\obj\Debug\net6.0-windows\CafeKiosk.Form8.resources
+C:\Users\LEE\Documents\간현진 폴더\c# 윈폼 카페 프로젝트\obj\Debug\net6.0-windows\CafeKiosk.Properties.Resources.resources
+C:\Users\LEE\Documents\간현진 폴더\c# 윈폼 카페 프로젝트\obj\Debug\net6.0-windows\CafeKiosk.csproj.GenerateResource.cache
+C:\Users\LEE\Documents\간현진 폴더\c# 윈폼 카페 프로젝트\obj\Debug\net6.0-windows\CafeKiosk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEE\Documents\간현진 폴더\c# 윈폼 카페 프로젝트\obj\Debug\net6.0-windows\CafeKiosk.AssemblyInfoInputs.cache
+C:\Users\LEE\Documents\간현진 폴더\c# 윈폼 카페 프로젝트\obj\Debug\net6.0-windows\CafeKiosk.AssemblyInfo.cs
+C:\Users\LEE\Documents\간현진 폴더\c# 윈폼 카페 프로젝트\obj\Debug\net6.0-windows\CafeKiosk.csproj.CoreCompileInputs.cache
+C:\Users\LEE\Documents\간현진 폴더\c# 윈폼 카페 프로젝트\obj\Debug\net6.0-windows\CafeKiosk.dll
+C:\Users\LEE\Documents\간현진 폴더\c# 윈폼 카페 프로젝트\obj\Debug\net6.0-windows\refint\CafeKiosk.dll
+C:\Users\LEE\Documents\간현진 폴더\c# 윈폼 카페 프로젝트\obj\Debug\net6.0-windows\CafeKiosk.pdb
+C:\Users\LEE\Documents\간현진 폴더\c# 윈폼 카페 프로젝트\obj\Debug\net6.0-windows\CafeKiosk.genruntimeconfig.cache
+C:\Users\LEE\Documents\간현진 폴더\c# 윈폼 카페 프로젝트\obj\Debug\net6.0-windows\ref\CafeKiosk.dll
